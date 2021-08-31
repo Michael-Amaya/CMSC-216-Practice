@@ -1,0 +1,6 @@
+copytodropbox
+.DS_Store
+.vscode
+.vs_code
+*.out
+cmake_demo/build/*

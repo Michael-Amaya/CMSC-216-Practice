@@ -1,0 +1,5 @@
+To compile the simple main.c with main.h, cd into the build directory
+Run "cmake .." (Will execute instructions in CMakeLists.txt) and create what it
+needs in the build directory. Then run make to actually compile the program.
+CMake only creates a makefile. Then you can run ./TestApp to run the completed
+program.
